@@ -93,12 +93,12 @@ public void createTextField(String text,int x,int y,int width,int height,gui win
 			if(i==0)
 			{
 				t=true;
-				image="download1.jpg";//replace with given pics address here
+				image="image1.jpg";//replace with given pics address here
 			}
 				
 			else
 			{
-				image="download2.jpg";//replace with given pics address here
+				image="image2.jpg";//replace with given pics address here
 				t=false;
 				size=100;
 			}
